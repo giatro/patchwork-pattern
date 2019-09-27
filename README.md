@@ -10,8 +10,8 @@ Inspired by [Generating Patchwork design pattern using javascrip](https://codebu
 ## Install
 ```
 npm install patchwork-pattern --save
-
 ```
+
 ## Usage
 ```js
 import PatchworkPattern from 'patchwork-pattern';
