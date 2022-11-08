@@ -4,7 +4,7 @@
   "description": "Generate a configurable patchwork pattern as a data URI, i.e. data:image/png;base64,iVBORw...",
   "main": "build/index.js",
   "dependencies": {
-    "webpack": "^2.6.1"
+    "webpack": "^5.74.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
